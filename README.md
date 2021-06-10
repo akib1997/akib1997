@@ -4,12 +4,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontend with HTML5, CSS3, SCSS, TailwindCSS, Bootstrap, JS, React, Next, jQuery, etc.
 - 🌱 I’m currently learning Backend using Node, Mongo, and express.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [Website]:(https://topwebcoder.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I'm half finish.
+- ⚡ Fun fact: I'm half finish.
+
 ### About Me ❔
 
 I'm Akib, a Frontend Web-Developer. I've complited my Master's degree in 2017 and have been working in this sector for nearly 3 years now, and along with the common Frontend Technologies, I'm comfortable with frameworks like Bootstrap, Tailwind, React, and NextJS. Also, when it comes to pure CSS and JS, I have acquaintance with CSS architecture like BEM, OOCSS, SMACSS, and Semantic Markup. I've already worked on more than 100+ projects and my goal is to be a MEAR stack develoepr.
