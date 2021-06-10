@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [Website]: ###(https://topwebcoder.com)
+- 📫 How to reach me: [Website]:(https://topwebcoder.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm half finish.
