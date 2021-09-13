@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ### About Me ❔
 
-I'm Akib, a Frontend Web-Developer. I've complited my Master's degree in 2018 and have been working in this sector for nearly 3 years now, and along with the common Frontend Technologies, I'm comfortable with frameworks like Bootstrap, Tailwind, React, and NextJS. Also, when it comes to pure CSS and JS, I have acquaintance with CSS architecture like BEM, OOCSS, SMACSS, and Semantic Markup. I've already worked on more than 100+ projects and my goal is to be a MEAR stack develoepr.
+I'm Akib, a Frontend Web Developer. I've completed my Master's degree in 2018 and have been working in this sector for 3 years now along with the common Frontend Technologies like Bootstrap, Tailwind, React, Storybook, and NextJS. Also, when it comes to pure CSS and JS, I have acquaintance with CSS architecture like BEM, OOCSS, SMACSS, and Semantic Markup. I've already worked on more than 100+ projects and my goal is to be a MEAR stack developer.
 
 ### 💪 Skills
 
