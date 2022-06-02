@@ -36,11 +36,6 @@ I'm Akib, a Frontend Web Developer. I've completed my Master's degree in 2018 an
 ↪️ Windows<br>
 ↪️ Linux<br>
 
-### 🎌 Freelancing Profile
-
-↪️ <a href="fiverr.com/developer_akib" target="_blank">Fiverr</a> 🔥 <b>Level 2</b> Seller 🔥<br>
-↪️ <a href="https://www.upwork.com/freelancers/~010a4ea544cd34b802" target="_blank">Upwork</a> <br>
-
 ### 🌷 Interested In
 
 ↪️ New Technology<br>
