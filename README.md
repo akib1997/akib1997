@@ -2,30 +2,26 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Frontend with HTML5, CSS3, SCSS, TailwindCSS, Bootstrap, JS, React, Next, Storybook, jQuery, etc.
-- 🌱 I’m currently learning Redux, Typescript, and Backend using Node, Mongo, and express.
-- ⚡ Fun fact: I'm half finish.
+- 🔭 I’m currently working on Frontend with HTML5, CSS3, SCSS, TailwindCSS, Bootstrap, JS, React, Next, Angular, etc.
+- 🌱 I’m currently learning Javascript, Typescript, Angular, Data Structure, and Algorithms.
+- ⚡ I'm solving problem on <a href="https://leetcode.com/akibhasan/" target="_blank">Leetcode</a><br> 
 
 ### About Me ❔
 
-I'm Akib, a Frontend Web Developer. I've completed my Master's degree in 2018 and have been working in this sector for 3 years now along with the common Frontend Technologies like Bootstrap, Tailwind, React, Storybook, and NextJS. Also, when it comes to pure CSS and JS, I have acquaintance with CSS architecture like BEM, OOCSS, SMACSS, and Semantic Markup. I've already worked on more than 100+ projects and my goal is to be a MEAR stack developer.
+I'm Akib, a Frontend Software Developer. I've completed my Master's degree in 2018 and have been working in this sector for 3 years now along with the common Frontend Technologies like HTML5, CSS3, SCSS, TailwindCSS, Bootstrap, JS, React, Next, Angular, etc.
 
 ### 💪 Skills
 
-↪️ HTML5, CSS, JS, jQuery (<i>Experience: 3 years</i>)<br>
-↪️ SCSS, Bootstrap, TailwindCSS (<i>Experience: 2 years</i>)<br>
-↪️ Raect, Next, Storybook(<i>Experience: 1.5 years</i>)<br>
-↪️ PHP(<i>Experience: 0.5 years</i>)<br>
-↪️ Others technologies I've worked with (<i>WP, Elementor, Email Templating, etc.</i>)<br>
+↪️ HTML5, CSS, SCSS, Bootstrap, TailwindCSS <br>
+↪️ Javascript, Typescript, Raect, NextJS, Angular<br>
 
 ### 🌱 Learning
 
--ContextAPI,
--Redux,
--Typescript,
--NodeJS,
--MongoDB,
--Express,
+- Javascript,
+- Angular,
+- Typescript,
+- Data Structure and Algorithms.
+- Solving Problem On <a href="https://leetcode.com/akibhasan/" target="_blank">Leetcode</a><br>
 
 ### 📘 Certification
 
