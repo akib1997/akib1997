@@ -2,26 +2,27 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Frontend with HTML5, CSS3, SCSS, TailwindCSS, Bootstrap, JS, React, Next, Angular, etc.
-- 🌱 I’m currently learning Javascript, Typescript, Angular, Data Structure, and Algorithms.
-- ⚡ I'm solving problem on <a href="https://leetcode.com/akibhasan/" target="_blank">Leetcode</a><br> 
+- 🔭 I’m currently working on Frontend with TypeScript, JavaScript, Angular, React, HTML5, CSS3, SCSS, TailwindCSS, Bootstrap, etc.
+- 🌱 I’m currently learning and trying to deep dive into State Management, Javascript, Typescript, Angular, Data Structure, and Algorithms.
+<!-- - ⚡ I'm solving problem on <a href="https://leetcode.com/akibhasan/" target="_blank">Leetcode</a><br>  -->
 
 ### About Me ❔
 
-I'm Akib, a Frontend Software Developer. I've completed my Master's degree in 2018 and have been working in this sector for 3 years now along with the common Frontend Technologies like HTML5, CSS3, SCSS, TailwindCSS, Bootstrap, JS, React, Next, Angular, etc.
+I'm Akib, a Frontend Software Engineer. I've completed my Master's degree in 2018 and have been working in this sector for 4 years now along with the common Frontend Technologies.
 
 ### 💪 Skills
 
-↪️ HTML5, CSS, SCSS, Bootstrap, TailwindCSS <br>
 ↪️ Javascript, Typescript, Raect, NextJS, Angular<br>
+↪️ HTML5, CSS, SCSS, Bootstrap, TailwindCSS <br>
 
 ### 🌱 Learning
 
-- Javascript,
+- TypeScript,
+- JavaScript,
 - Angular,
-- Typescript,
+- React,
+- State Management,
 - Data Structure and Algorithms.
-- Solving Problem On <a href="https://leetcode.com/akibhasan/" target="_blank">Leetcode</a><br>
 
 ### 📘 Certification
 
