@@ -1,48 +1,22 @@
-## Hi there 👋
+# Hi, I'm Akib! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Frontend with TypeScript, JavaScript, Angular, React, HTML5, CSS3, SCSS, TailwindCSS, Bootstrap, etc.
-- 🌱 I’m currently learning and trying to deep dive into State Management, Javascript, Typescript, Angular, Data Structure, and Algorithms.
-<!-- - ⚡ I'm solving problem on <a href="https://leetcode.com/akibhasan/" target="_blank">Leetcode</a><br>  -->
+## 🚀 About Me
 
-### About Me ❔
+ - Doing Frontend with TypeScript and Angular 
+ - Working at [Brain Station 23](https://brainstation-23.com)
+ - Contributing on [Angular](https://github.com/angular/angular/pulls/akib1997)
 
-I'm Akib, a Frontend Software Engineer. I've completed my Master's degree in 2018 and have been working in this sector for 4 years now along with the common Frontend Technologies.
 
-### 💪 Skills
 
-↪️ Javascript, Typescript, Raect, NextJS, Angular<br>
-↪️ HTML5, CSS, SCSS, Bootstrap, TailwindCSS <br>
 
-### 🌱 Learning
+## 🛠 Skills
+HTML, CSS, SCSS, Bootstrap, TailwindCSS, JavaScript, TypeScript, Angular, React, Angular Meterial, Ng Zorro, Headless UI, Azure Devops...
 
-- TypeScript,
-- JavaScript,
-- Angular,
-- React,
-- State Management,
-- Data Structure and Algorithms.
 
-### 📘 Certification
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://topwebcoder.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuaib-hasan-akib/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shuaibhasanakib)
+[![leetcode](https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06)](https://leetcode.com/akibhasan/)
 
-📘 <a href="https://www.freecodecamp.org/certification/akib/responsive-web-design" target="_blank">Responsive Web Design</a><br>
-
-### 💻 Operating System Experience
-
-↪️ Windows<br>
-↪️ Linux<br>
-
-### 🌷 Interested In
-
-↪️ New Technology<br>
-
-### 📨 Reach Out to Me
-
-↪️ <a href="https://www.linkedin.com/in/shuaib-hasan-akib-028140185" target="_blank">LinkedIn</a><br>
-↪️ <a href="https://twitter.com/Shuaibhasanakib" target="_blank">Twitter</a><br>
-↪️ <a href="mailto:akibh805gmail.com" target="_blank">Email Me: akibh805gmail.com</a><br>
-
-### 📫 My Website
-
-📫 <a href="https://topwebcoder.com/" target="_blank">Topwebcoder </a><br>
